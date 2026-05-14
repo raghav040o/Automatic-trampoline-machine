@@ -2,8 +2,6 @@
 
 A closed-loop, five-axis warp tension control system developed for automating trampoline mat weaving. Built during a Work Integrated Learning (WIL) placement with Mr Trampoline, Melbourne, in collaboration with RMIT University.
 
-![On-site with the machine](images/machine_full_frame.jpg)
-
 ## Overview
 
 Trampoline mat manufacturing traditionally relies on skilled operators to manually tension, hook, and align threads — a process that's slow, inconsistent, and physically demanding. This project replaced manual tension control with a fully automated, feedback-controlled system using stepper motors, load cell sensors, and an Arduino-based controller.
