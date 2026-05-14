@@ -150,14 +150,14 @@ All CAD modelling was done in **Fusion 360**, including mechanism design for thr
 
 ## Context
 
-This project was completed as part of the **OENG1090 Work Integrated Learning** course at RMIT University (Feb 2025 – Nov 2025), supervised by **Professor John Mo** and **Professor Pavel M. Trivailo**, with industry mentorship from **Mr George** at Mr Trampoline.
+This project was completed as part of the **Work Integrated Learning** course at RMIT University (Feb 2025 – Nov 2025), with industry Mr Trampoline.
 
 The work built upon a Semester 1 open-loop prototype and transformed it into a fully closed-loop, feedback-controlled automation system across two semesters.
 
 ## Skills Demonstrated
 
 - Electromechanical system design and integration
-- CAD modelling and mechanism design (Fusion 360)
+- CAD modelling and mechanism design (solidworks)
 - Multi-axis stepper motor control and synchronisation
 - Sensor integration and calibration (load cells, HX711)
 - Closed-loop feedback control design
